@@ -1,0 +1,2 @@
+# hackerRankBomberMan
+C# console app
